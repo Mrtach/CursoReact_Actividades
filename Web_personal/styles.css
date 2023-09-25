@@ -1,0 +1,12 @@
+h1 {
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: beige;
+    font-size: 14px;
+}
+a, a:visited, a:hover, a:active{
+    text-decoration: none;
+    cursor: pointer;
+}
